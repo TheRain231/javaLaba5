@@ -24,5 +24,5 @@
 ---
 
 ## **Скриншоты**
-![Интерфейс программы]([https://postimg.cc/t1Yr7HKq](https://i.postimg.cc/rp97nVgr/temp-Imagea-Qji-Uh.avif)](https://i.yapx.ru/YRq5k.png))
+![Интерфейс программы](https://github.com/TheRain231/javaLaba5/blob/main/screenshot.png?raw=true)
 _Пример графического интерфейса программы._
