@@ -24,5 +24,5 @@
 ---
 
 ## **Скриншоты**
-![Интерфейс программы](https://postimg.cc/t1Yr7HKq)
+![Интерфейс программы]([https://postimg.cc/t1Yr7HKq](https://i.postimg.cc/rp97nVgr/temp-Imagea-Qji-Uh.avif)](https://i.yapx.ru/YRq5k.png))
 _Пример графического интерфейса программы._
